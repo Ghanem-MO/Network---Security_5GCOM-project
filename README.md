@@ -8,3 +8,4 @@ The company contains on tow buildings , Each building contains on three floors I
  Providing security recommendations to safeguard the network from potential attacks
 
 All of this was developed using Cisco Packet Tracer.
+![image alt](https://github.com/Ghanem-MO/Network-Security_5GCOM-project/blob/8268531c852d7a3d53f013c57374b7ae1ec00bd6/Screenshot%202024-11-22%20112326.png)
